@@ -3,7 +3,7 @@ title: Install the SAP HANA Client Test Blue repo 3
 description: Learn about the multiple ways to install the SAP HANA client.
 auto_validation: true
 time: 10
-tags: [ tutorial>beginner, topic>big-data]
+tags: [ tutorial>beginner, topic>big-data, tutorial>community ]
 primary_tag: topic>sql
 ---
 
