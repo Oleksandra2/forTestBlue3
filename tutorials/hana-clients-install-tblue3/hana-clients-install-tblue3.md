@@ -4,7 +4,7 @@ description: Learn about the multiple ways to install the SAP HANA client.
 auto_validation: true
 time: 10
 tags: [ tutorial>beginner, topic>big-data, tutorial>community ]
-primary_tag: topic>sql
+primary_tag: topic>sqll
 ---
 
 ## Prerequisites
